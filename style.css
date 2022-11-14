@@ -1,0 +1,10 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #33FFFF; 
+    background-image: url(img/pnjng.jpg);
+}
+#project {
+    background-color: #33FFFF;
+    text-emphasis-color: 2;
+}
+ 
