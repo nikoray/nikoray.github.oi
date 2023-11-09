@@ -1,0 +1,11 @@
+.jumbotron {
+    padding-top: 20rem;
+    background-color: #949494; 
+    background-image: url(img/background.png);
+
+}
+#project {
+    background-color: #949494;
+    text-emphasis-color: 2;
+}
+ 
